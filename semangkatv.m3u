@@ -53,6 +53,26 @@ https://halu.serv00.net/satu.mpd?id=18252
 #KODIPROP:inputstream.adaptive.license_key=7abf8c6b6ad702c484b59959c11ab575:33a8a0828e996d4918edb8957798e1d7
 https://halu.serv00.net/satu.mpd?id=18253
 
+#EXTINF:-1 tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="US",truTV
+https://dokko1new.newkso.ru/dokko1/premium341/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkzgjdKJQvchQmyFpHEXswcFhh43eSPuf8QA&s" group-title="US",FX
+https://zekonew.newkso.ru/zeko/premium317/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/FXX-White-Small.png" group-title="US",FXX
+https://ddy6new.newkso.ru/ddy6/premium298/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/13/1/starz-logo-png_seeklogo-131884.png" group-title="US",StarZ
+https://zekonew.newkso.ru/zeko/premium335/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/75-751753_mtv-logo-png-copy-johns-hopkins-logo-white.png" group-title="US",MTV
+https://nfsnew.newkso.ru/nfs/premium371/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Comedy-Central-Symbol.jpg" group-title="US",Comedy Central
+https://zekonew.newkso.ru/zeko/premium310/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Bravo_TV_%282017_Logo%29.png" group-title="US",Bravo
+https://nfsnew.newkso.ru/nfs/premium307/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nickelodeon-us.png?raw=true" group-title="Entertainment",Nickelodeon
 https://windnew.newkso.ru/wind/premium330/mono.m3u8
