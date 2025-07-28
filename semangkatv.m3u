@@ -74,6 +74,12 @@ https://zekonew.newkso.ru/zeko/premium310/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Bravo_TV_%282017_Logo%29.png" group-title="US",Bravo
 https://nfsnew.newkso.ru/nfs/premium307/mono.m3u8
 
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="Anime" tvg-logo="https://iptvsystem.my.id/img/animax.png",Animax
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
+https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
+
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nickelodeon-us.png?raw=true" group-title="Entertainment",Nickelodeon
 https://windnew.newkso.ru/wind/premium330/mono.m3u8
 
@@ -129,13 +135,13 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #EXTVLCOPT:http-origin=https://kleanembed.online
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/klean/54a7a4af051a2835711c41160039a53a.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjU0YTdhNGFmMDUxYTI4MzU3MTFjNDExNjAwMzlhNTNhIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzA2ODU0MX0.S0xFQU5FTUJFRA
+https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/omni-vaquint/54a7a4af051a2835711c41160039a53a.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IjU0YTdhNGFmMDUxYTI4MzU3MTFjNDExNjAwMzlhNTNhIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzcxNjExN30.P3VjUnVrbFN0OWdV
 
 #EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-name="E! Entertainment" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/ENT" group-title="NBCUniversal", E!
-https://ott.udptv.com/stream/nbc/eeast/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+https://ott.udptv.xyz/stream/nbc/eeast/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 
 #EXTINF:-1 tvg-id="516.astro" tvg-name="CNBC" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/CNB" group-title="NBCUniversal", CNBC
-https://ott.udptv.org/stream/astro/cnbc/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+https://ott.udptv.xyz/stream/astro/cnbc/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 
 #EXTINF:-1 tvg-id="MSNBC.USA.us" tvg-name="MSNBC" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/MSNBC" group-title="NBCUniversal", MSNBC
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OGQ4YzMwOTdlOTI4LWMxZWItMzdhNC0zN2U3LTIxMWIyZjhk/master.m3u8
@@ -144,7 +150,7 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OGQ4YzMwOTdl
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQwNWM4NGU1NzQ0LWIzZTgtOTUyNC0wMjA2LWNjMWE3YTQw/master.m3u8
 
 #EXTINF:-1 tvg-id="Oxygen.-.Eastern.Feed.us" tvg-name="Oxygen" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/OXY" group-title="NBCUniversal", Oxygen
-https://ott.udptv.org/stream/udptvus/oxygentruecrime/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+https://ott.udptv.xyz/stream/udptvus/oxygentruecrime/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 
 #EXTINF:-1 tvg-id="" tvg-name="Peacock" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/PCK" group-title="NBCUniversal", Peacock Sport
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -230,17 +236,16 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTkzNGQyNjA3
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDU1YzcxM2M4NDQ5LWIyYWEtNmE4NC0xMzY0LWZlMWUxYTc3/master.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.U.us" tvg-name="ESPNU" tvg-logo="https://i.imgur.com/yzqMIbU.png" group-title="ESPN Inc.", ESPN U
-https://ott.udptv.org/stream/udptvus/espnu/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+https://ott.udptv.xyz/stream/udptvus/espnu/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 
 #EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="ESPNEWS" tvg-logo="https://i.imgur.com/AAvbuUo.png" group-title="ESPN Inc.", ESPN NEWS
-https://ott.udptv.org/stream/udptvus/espnnews/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
-
+https://ott.udptv.xyz/stream/udptvus/espnnews/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="Fox Sports 1" tvg-logo="https://i.imgur.com/4IMCDzZ.png" group-title="Fox Corporation", Fox Sports 1
 https://zekonew.newkso.ru/zeko/premium39/mono.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="Fox Sports 2" tvg-logo="https://i.imgur.com/Xp07Ukw.png" group-title="Fox Corporation", Fox Sports 2
-https://beautifulpeople.lovecdn.ru/FOXSPORTS2/index.fmp4.m3u8?token=48c3feca86ecd96c8f158204eeb005cc6d26b70d-d7a7b3cd74971b43ee8ebe5e374310db-1753711636-1753700836
+https://ott.udptv.xyz/stream/udptvus/fs2/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 
 #EXTINF:-1 tvg-id="FOX.Soccer.Plus.HD.us" tvg-name="Fox Soccer Plus" tvg-logo="https://i.imgur.com/BLYNHFQ.png" group-title="Fox Corporation", Fox Soccer Plus
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8
