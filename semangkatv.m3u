@@ -26,7 +26,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CbqRsQkz/live.is
 #EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1646066233/assets/competition-logos/Events%202022/Volleyball/VNL%202022/VW_VNL-2021_fivb_light" group-title="Men's VNL 2025",? vs ? | Gold
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/s5ouCbQt/live.isml/.m3u8
 
-#EXTINF:-1 group-title="AFF U-23" tvg-logo="https://todaynews.id/wp-content/uploads/2025/05/IMG-20250530-WA0005.jpg", AFF U-23 
+#EXTINF:-1 group-title="AFF U-23" tvg-logo="https://img.sportcorner.id/uploads/2025/07/14/large_piala_aff_u_23_2025_714df7317b.webp", AFF U-23 
 #EXTVLCOPT:http-referrer=https://m.vidio.com 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
