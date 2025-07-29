@@ -84,6 +84,8 @@ https://nfsnew.newkso.ru/nfs/premium307/mono.m3u8
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/thumbnail/white-mtv-png-logo-mtv-logo-white-transparent-11563247221frsn66vam6.png" group-title="Enterteinment", MTV
 https://nfsnew.newkso.ru/nfs/premium371/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/169-1696761_national-geographic-channel-logo-png-transparent-png.png" group-title="Enterteinment", National Geographic
+https://zekonew.newkso.ru/zeko/premium328/mono.m3u8
 
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="Anime" tvg-logo="https://iptvsystem.my.id/img/animax.png", Animax
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
