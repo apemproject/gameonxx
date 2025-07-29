@@ -34,14 +34,6 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/s5ouCbQt/live.is
 https://gasruktv.my.id/sakura/vid.mpd?id=18037&type=dash
 
 
-#EXTINF:-1 group-title="Moji Volley Cup" tvg-logo="https://thumbor.prod.vidiocdn.com/e3QRvUirNjGDs9oZeF677uSAKmw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19176/moji-volley-cup-6f4ba7.jpg", Moji Volley Cup 
-#EXTVLCOPT:http-referrer=https://m.vidio.com 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/sakura/drm.php?id=19176 
-https://gasruktv.my.id/sakura/vid.mpd?id=19176&type=dash
-
-
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/n5FGimp4yL8wxygKg7JHoyL660M=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/63/bwf-390d18.png" group-title="BWF", COURT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
