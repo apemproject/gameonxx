@@ -26,13 +26,6 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CbqRsQkz/live.is
 #EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1646066233/assets/competition-logos/Events%202022/Volleyball/VNL%202022/VW_VNL-2021_fivb_light" group-title="Men's VNL 2025",? vs ? | Gold
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/s5ouCbQt/live.isml/.m3u8
 
-#EXTINF:-1 group-title="AFF U-23" tvg-logo="https://img.sportcorner.id/uploads/2025/07/14/large_piala_aff_u_23_2025_714df7317b.webp", AFF U-23 
-#EXTVLCOPT:http-referrer=https://m.vidio.com 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/sakura/drm.php?id=18037
-https://gasruktv.my.id/sakura/vid.mpd?id=18037&type=dash
-
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/n5FGimp4yL8wxygKg7JHoyL660M=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/63/bwf-390d18.png" group-title="BWF", COURT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -84,7 +77,7 @@ https://nfsnew.newkso.ru/nfs/premium307/mono.m3u8
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/thumbnail/white-mtv-png-logo-mtv-logo-white-transparent-11563247221frsn66vam6.png" group-title="Enterteinment", MTV
 https://nfsnew.newkso.ru/nfs/premium371/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/169-1696761_national-geographic-channel-logo-png-transparent-png.png" group-title="Enterteinment", National Geographic
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180609/lfi/aa8fxi7gc.webp" group-title="Enterteinment", National Geographic
 https://zekonew.newkso.ru/zeko/premium328/mono.m3u8
 
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="Anime" tvg-logo="https://iptvsystem.my.id/img/animax.png", Animax
