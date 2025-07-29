@@ -21,7 +21,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/Vsdrpcry/live.is
 #EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1646066233/assets/competition-logos/Events%202022/Volleyball/VNL%202022/VW_VNL-2021_fivb_light" group-title="Men's VNL 2025",? vs ? | Bronze
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CbqRsQkz/live.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1646066233/assets/competition-logos/Events%202022/Volleyball/VNL%202022/VW_VNL-2021_fivb_light" group-title="Men's VNL 2025",? vs ? | Bronze
+#EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1646066233/assets/competition-logos/Events%202022/Volleyball/VNL%202022/VW_VNL-2021_fivb_light" group-title="Men's VNL 2025",? vs ? | Gold
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/s5ouCbQt/live.isml/.m3u8
 
 #EXTINF:-1 group-title="AFF U-23" tvg-logo="https://todaynews.id/wp-content/uploads/2025/05/IMG-20250530-WA0005.jpg", AFF U-23 
@@ -38,12 +38,6 @@ https://gasruktv.my.id/sakura/vid.mpd?id=18037&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/sakura/drm.php?id=19176 
 https://gasruktv.my.id/sakura/vid.mpd?id=19176&type=dash
-
-#EXTINF:-1 tvg-id="unifi Sports 1" tvg-name="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png",unifi Sports
-https://unifi-live08.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="Sports",Red Bull TV
-https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/n5FGimp4yL8wxygKg7JHoyL660M=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/63/bwf-390d18.png" group-title="BWF", COURT 1
@@ -70,26 +64,32 @@ https://halu.serv00.net/satu.mpd?id=18252
 #KODIPROP:inputstream.adaptive.license_key=7abf8c6b6ad702c484b59959c11ab575:33a8a0828e996d4918edb8957798e1d7
 https://halu.serv00.net/satu.mpd?id=18253
 
-#EXTINF:-1 tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="US", truTV
-https://dokko1new.newkso.ru/dokko1/premium341/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkzgjdKJQvchQmyFpHEXswcFhh43eSPuf8QA&s" group-title="US", FX
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkzgjdKJQvchQmyFpHEXswcFhh43eSPuf8QA&s" group-title="Movie", FX
 https://zekonew.newkso.ru/zeko/premium317/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/FXX-White-Small.png" group-title="US", FXX
+#EXTINF:-1 tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/FXX-White-Small.png" group-title="Movie", FXX
 https://ddy6new.newkso.ru/ddy6/premium298/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static-web-images.imgix.net/web-images/logos/starz-prismatic-color.png" group-title="US", StarZ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="Movie", Rakuten TV
+https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-web-images.imgix.net/web-images/logos/starz-prismatic-color.png" group-title="Movie", StarZ
 https://zekonew.newkso.ru/zeko/premium335/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://toppng.com/uploads/thumbnail/white-mtv-png-logo-mtv-logo-white-transparent-11563247221frsn66vam6.png" group-title="US", MTV
-https://nfsnew.newkso.ru/nfs/premium371/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Comedy-Central-Symbol.jpg" group-title="US", Comedy Central
+#EXTINF:-1 tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Enterteinment", truTV
+https://dokko1new.newkso.ru/dokko1/premium341/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Comedy-Central-Symbol.jpg" group-title="Enterteinment", Comedy Central
 https://zekonew.newkso.ru/zeko/premium310/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Bravo_TV_%282017_Logo%29.png" group-title="US", Bravo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Bravo_TV_%282017_Logo%29.png" group-title="Enterteinment", Bravo
 https://nfsnew.newkso.ru/nfs/premium307/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/thumbnail/white-mtv-png-logo-mtv-logo-white-transparent-11563247221frsn66vam6.png" group-title="Enterteinment", MTV
+https://nfsnew.newkso.ru/nfs/premium371/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="Anime" tvg-logo="https://iptvsystem.my.id/img/animax.png", Animax
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -97,8 +97,32 @@ https://nfsnew.newkso.ru/nfs/premium307/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
 https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nickelodeon-us.png?raw=true" group-title="Entertainment",Nickelodeon
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nickelodeon-us.png?raw=true" group-title="KIDS", Nickelodeon
 https://windnew.newkso.ru/wind/premium330/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cordcutting.com/wp-content/uploads/2017/11/nick-jr-logo.png" group-title="KIDS", Nick Jr.
+https://fl5.moveonjoy.com/NICK_JR/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="KIDS", Nicktoons
+https://fl1.moveonjoy.com/NICKTOONS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/2/25/Disney_Channel_2024_logo.png/revision/latest/thumbnail/width/360/height/360?cb=20240924174359" group-title="KIDS", Disney Channel
+https://fl5.moveonjoy.com/DISNEY/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/02/Disney-Junior-Logo.png?raw=true" group-title="KIDS", Disney Junior
+https://fl3.moveonjoy.com/DISNEY_JR/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/800px-2015_Disney_XD_logo.svg.png" group-title="KIDS", Disney XD
+https://fl3.moveonjoy.com/DISNEY_XD/tracks-v1a1/mono.ts.m3u8
+
+
+
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-name="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png", unifi Sports
+https://unifi-live08.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="Sports", Red Bull TV
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png" group-title="Sport", Canal+ Sport France
 https://windnew.newkso.ru/wind/premium122/mono.m3u8
@@ -114,6 +138,8 @@ https://zekonew.newkso.ru/zeko/premium355/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tJ6jp2a.jpeg" group-title="Sport", MUTV
 https://windnew.newkso.ru/wind/premium377/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-id="97073" tvg-name="MLIVE1" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/MLIVE1.png" group-title="Mediacorp", M LIVE 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
@@ -142,6 +168,7 @@ https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=970d551e974d4a82b45213dc07541131:7586b55fcb4807a5b74764e5564d8095
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
 
 
 #EXTINF:-1 tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-name="bravo" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/Bravo" group-title="NBCUniversal", Bravo
@@ -188,6 +215,7 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjExOTNhYzE4
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 
+
 #EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC ONE" tvg-logo="https://i.imgur.com/b4lzj0Y.png" group-title="the BBC", BBC ONE
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzJmNzY2NGE1MmQ2LTgzNDgtMzU4NC03ZDk1LWJjZTk5ODU2/master.m3u8?auth_key=1752230948-f6b5def913107232de8eb3a7311370be-00000000000000000000000000000000-709fcfdf2b7fbc69a49a111164653c2c
 
@@ -207,6 +235,7 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjE4YmE5OWMz
 #EXTINF:-1 tvg-id="motogp" tvg-name="MotoGP™" tvg-logo="https://www.dorna.com/wp-content/uploads/2024/11/logo-white-motogp.png" group-title="Dorna Sports S.L.", MotoGP
 https://s1.strea.ru/index.m3u8
 
+
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1" tvg-logo="https://i.imgur.com/RmqiBzF.png" group-title="ITV plc", ITV 1
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ODA1MzBhZDU3MTIyLWVmZGEtZjdkNC0xN2FkLWZkMTRjZTkz/master.m3u8?auth_key=1752293619-da000c584a67945687c2c61e8ad64ee0-00000000000000000000000000000000-5c50bae83f75f701a049c0fe25e84888
 
@@ -218,6 +247,7 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDY1MWYyNzcx
 
 #EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-name="ITV4" tvg-logo="https://i.imgur.com/jSAFyw9.png" group-title="ITV plc", ITV 4
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjU2N2I3NTU1MGZkLTdmMzgtYTkyNC1kYjk3LWMwN2NlYTVi/master.m3u8?auth_key=1752294630-da000c584a67945687c2c61e8ad64ee0-00000000000000000000000000000000-fefe2685484c3046f3e57705086a48d5
+
 
 
 #EXTINF:-1 tvg-id="Eurosport.2.fr" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/CirjSgB.png" group-title="Warner Bros. Discovery", Eurosport 1
@@ -240,6 +270,7 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDU3NjA3NzY4
 
 #EXTINF:-1 tvg-id="400478" tvg-name="TNT Sports 4 HD" tvg-logo="https://i.imgur.com/irAdyHZ.png" group-title="Warner Bros. Discovery", TNT Sports 4 HD
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzMyYzk1MGY3ZWIyLWM3NzgtNjNkNC1jODNhLWZmYjRjYzg1/master.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://i.imgur.com/ViDaXhB.png" group-title="ESPN Inc.", ESPN
@@ -283,6 +314,7 @@ https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/klean/58582ebdda51b171
 
 #EXTINF:-1 tvg-id="FoxSports506.alt.au" tvg-name="Fox 506" tvg-logo="https://i.imgur.com/OQZKyOJ.png" group-title="Fox Corporation", Fox Sports 506 (506)
 https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/klean/ac0dfaf43b236054ea5ebe5862b68d00.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImFjMGRmYWY0M2IyMzYwNTRlYTVlYmU1ODYyYjY4ZDAwIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc1MzA2NzM4NX0.S0xFQU5FTUJFRA
+
 
 
 #EXTINF:-1 tvg-id="411956" tvg-name="beIN Sports 1 HD" tvg-logo="https://i.imgur.com/CuDyCt2.png" group-title="beIN Sports",beIN Sports 1 HD
