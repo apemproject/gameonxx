@@ -70,28 +70,28 @@ https://halu.serv00.net/satu.mpd?id=18252
 #KODIPROP:inputstream.adaptive.license_key=7abf8c6b6ad702c484b59959c11ab575:33a8a0828e996d4918edb8957798e1d7
 https://halu.serv00.net/satu.mpd?id=18253
 
-#EXTINF:-1 tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="US",truTV
+#EXTINF:-1 tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="US", truTV
 https://dokko1new.newkso.ru/dokko1/premium341/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkzgjdKJQvchQmyFpHEXswcFhh43eSPuf8QA&s" group-title="US",FX
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkzgjdKJQvchQmyFpHEXswcFhh43eSPuf8QA&s" group-title="US", FX
 https://zekonew.newkso.ru/zeko/premium317/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/FXX-White-Small.png" group-title="US",FXX
+#EXTINF:-1 tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/FXX-White-Small.png" group-title="US", FXX
 https://ddy6new.newkso.ru/ddy6/premium298/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static-web-images.imgix.net/web-images/logos/starz-prismatic-color.png" group-title="US",StarZ
+#EXTINF:-1 tvg-logo="https://static-web-images.imgix.net/web-images/logos/starz-prismatic-color.png" group-title="US", StarZ
 https://zekonew.newkso.ru/zeko/premium335/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://toppng.com/uploads/thumbnail/white-mtv-png-logo-mtv-logo-white-transparent-11563247221frsn66vam6.png" group-title="US",MTV
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/thumbnail/white-mtv-png-logo-mtv-logo-white-transparent-11563247221frsn66vam6.png" group-title="US", MTV
 https://nfsnew.newkso.ru/nfs/premium371/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Comedy-Central-Symbol.jpg" group-title="US",Comedy Central
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Comedy-Central-Symbol.jpg" group-title="US", Comedy Central
 https://zekonew.newkso.ru/zeko/premium310/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Bravo_TV_%282017_Logo%29.png" group-title="US",Bravo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Bravo_TV_%282017_Logo%29.png" group-title="US", Bravo
 https://nfsnew.newkso.ru/nfs/premium307/mono.m3u8
 
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="Anime" tvg-logo="https://iptvsystem.my.id/img/animax.png",Animax
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="Anime" tvg-logo="https://iptvsystem.my.id/img/animax.png", Animax
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
@@ -100,19 +100,19 @@ https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nickelodeon-us.png?raw=true" group-title="Entertainment",Nickelodeon
 https://windnew.newkso.ru/wind/premium330/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png" group-title="Sport",Canal+ Sport France
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png" group-title="Sport", Canal+ Sport France
 https://windnew.newkso.ru/wind/premium122/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png" group-title="Sport",Racing TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FZK_FQSXoAADkXA.png" group-title="Sport", Racing TV
 https://zekonew.newkso.ru/zeko/premium555/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Channel-4-Logo.png" group-title="Entertainment",Channel 4 UK
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Channel-4-Logo.png" group-title="Entertainment", Channel 4 UK
 https://windnew.newkso.ru/wind/premium354/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Channel_5_2025.svg/1200px-Channel_5_2025.svg.png" group-title="Entertainment",Channel 5 UK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Channel_5_2025.svg/1200px-Channel_5_2025.svg.png" group-title="Entertainment", Channel 5 UK
 https://zekonew.newkso.ru/zeko/premium355/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tJ6jp2a.jpeg" group-title="Sport",MUTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tJ6jp2a.jpeg" group-title="Sport", MUTV
 https://windnew.newkso.ru/wind/premium377/mono.m3u8
 
 #EXTINF:-1 tvg-id="97073" tvg-name="MLIVE1" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/MLIVE1.png" group-title="Mediacorp", M LIVE 1
@@ -253,6 +253,9 @@ https://ott.udptv.xyz/stream/udptvus/espnu/master.m3u8?u=discord.gg/civ4&p=b48a6
 
 #EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="ESPNEWS" tvg-logo="https://i.imgur.com/AAvbuUo.png" group-title="ESPN Inc.", ESPN NEWS
 https://ott.udptv.xyz/stream/udptvus/espnnews/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+
+#EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="SECN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SEC_Network_%282024%29.svg/1200px-SEC_Network_%282024%29.svg.png" group-title="ESPN Inc.", SECN
+https://zekonew.newkso.ru/zeko/premium385/mono.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="Fox Sports 1" tvg-logo="https://i.imgur.com/4IMCDzZ.png" group-title="Fox Corporation", Fox Sports 1
 https://zekonew.newkso.ru/zeko/premium39/mono.m3u8
