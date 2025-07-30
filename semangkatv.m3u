@@ -2,9 +2,6 @@
 #EXTM3U url-tvg="https://da.gd/SGSD1,https://da.gd/AST1,https://da.gd/AUSD1,https://da.gd/CASD1,https://da.gd/EPGALL,https://da.gd/FRASD1,https://da.gd/IDNSD1,https://da.gd/IDNSD2,https://da.gd/IDNSD3,https://da.gd/ITASD1,https://da.gd/NZSD1,https://da.gd/SESD1,https://da.gd/TRSD1,https://da.gd/UKSD1,https://da.gd/USASD1" refresh="1440" max-conn="1"
 
 
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YWP2ZBUi/poster.jpg?width=1920" group-title="Men's VNL 2025",Brazil vs China | Quarterfinal 2
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YWP2ZBUi/live.isml/.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pEMDympO/poster.jpg?width=1920" group-title="Men's VNL 2025",France vs Slovenia | Quarterfinal 3
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pEMDympO/live.isml/.m3u8
 
