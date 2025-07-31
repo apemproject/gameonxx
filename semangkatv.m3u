@@ -21,7 +21,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CbqRsQkz/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/s5ouCbQt/live.isml/.m3u8
 
 
-#EXTINF:-1 group-title="SEA VLeague" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png", SEA VLeague 
+#EXTINF:-1 group-title="SEA VLeague" tvg-logo="gameonxx/seavleague.png", SEA VLeague 
 #EXTVLCOPT:http-referrer=https://m.vidio.com 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
