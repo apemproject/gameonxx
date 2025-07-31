@@ -21,6 +21,12 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CbqRsQkz/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/s5ouCbQt/live.isml/.m3u8
 
 
+#EXTINF:-1 group-title="SEA VLeague" tvg-logo="https://thumbor.prod.vidiocdn.com/Lx_zp9DUIcCkO0nQEIQ-69NO9B4=/830x460/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/19051/sea-vleague-2025-cover-bc8d0f.jpg", SEA VLeague 
+#EXTVLCOPT:http-referrer=https://m.vidio.com 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/n5FGimp4yL8wxygKg7JHoyL660M=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/63/bwf-390d18.png" group-title="BWF", COURT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
