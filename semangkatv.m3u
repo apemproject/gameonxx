@@ -21,10 +21,12 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CbqRsQkz/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/s5ouCbQt/live.isml/.m3u8
 
 
-#EXTINF:-1 group-title="SEA VLeague" tvg-logo="gameonxx/seavleague.png", SEA VLeague 
+#EXTINF:-1 group-title="SEA VLeague" tvg-logo="seavleague.png", SEA VLeague 
 #EXTVLCOPT:http-referrer=https://m.vidio.com 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/sakura/drm.php?id=19051
+https://gasruktv.my.id/sakura/vid.mpd?id=19051&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/n5FGimp4yL8wxygKg7JHoyL660M=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/63/bwf-390d18.png" group-title="BWF", COURT 1
