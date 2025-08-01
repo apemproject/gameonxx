@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="GameOnX" tvg-logo="https://i.imgur.com/pljUgAj.png" group-title="GameOnX", Play
+#EXTINF:-1 tvg-id="" tvg-name="GameOnX" tvg-logo="" group-title="GameOnX", Play
 https://github.com/apemproject/gameonxx/blob/main/vidio/vdiogonx.mp4
 
 
